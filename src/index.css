@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+/*
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.navbar {
+    background: linear-gradient(to right, rebeccapurple, #5D3FD3);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+
+.logo {
+    font-family: 'Orbitron', serif;
+    color: white;
+    font-size: 23px;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+    color: white;
+}
+*/
+
+/*End Navbar*/
+
+.logo {
+    font-family: 'Orbitron', serif;
+    color: white;
+    font-size: 25px;
+}
