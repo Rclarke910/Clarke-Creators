@@ -6,7 +6,7 @@ class Header extends Component {
             <div className="bg-gradient-to-r from-[#663399] to-[#5D3FD3]
             flex justify-between items-center p-[20px_40px]"
             >
-                <h1 className = "logo">CLARKE CREATIONS</h1>
+                <h1 className = "logo">CLARKE CREATORS</h1>
                 <div className = "flex gap-13 text-white">
                 <p>Home</p>
                 <p>Services</p>
