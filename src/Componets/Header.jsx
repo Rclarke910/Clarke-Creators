@@ -8,10 +8,10 @@ class Header extends Component {
             >
                 <h1 className = "logo">CLARKE CREATORS</h1>
                 <div className = "flex gap-13 text-white">
-                <p>Home</p>
-                <p>Services</p>
-                <p>Contact</p>
-                <p>About</p>
+                <a href="url" className="hover:text-purple-700">Home</a>
+                <a href="url" className="hover:text-purple-700">Services</a>
+                <a href="url" className="hover:text-purple-700">Contact</a>
+                <a href="url" className="hover:text-purple-700">About</a>
                 </div>
             </div>
         );
